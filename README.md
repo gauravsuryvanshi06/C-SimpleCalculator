@@ -1,4 +1,4 @@
 # C-SimpleCalculator
 
-##Working On it
-###comming soon....
+# Working On it
+# coming soon....
