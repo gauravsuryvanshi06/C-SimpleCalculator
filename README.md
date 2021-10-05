@@ -1,4 +1,4 @@
-# C-SimpleCalculator
+# C++ SimpleCalculator
 
 # Working On it
 # coming soon....
