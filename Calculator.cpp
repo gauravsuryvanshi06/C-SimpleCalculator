@@ -77,7 +77,7 @@ void trignometric(){
 	}
 	cout<<endl;
 }
-
+// function to find the exponent
 void exponential(){
 	float base = 0.0;
 	float expo = 0.0;
