@@ -1,3 +1,3 @@
 # C++ SimpleCalculator
 <br>
-<img srcd="https://raw.githubusercontent.com/G-5256/C-SimpleCalculator/main/Screenshot%20(9).png">
+<img src="https://user-images.githubusercontent.com/80798531/136885249-e06bcba1-bfea-4f5f-89f4-e959dd6e547a.png">
