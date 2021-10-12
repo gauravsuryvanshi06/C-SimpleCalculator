@@ -1,8 +1,6 @@
 /*
-
-Problem statement
-
-
+make a code to amke calculator to
+do various arithmetic operations
 
 */
 
